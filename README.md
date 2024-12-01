@@ -1,4 +1,5 @@
 ## **Vault Roadmap: Securing Your Secrets**
+![vault_roadmap](https://github.com/user-attachments/assets/e46ac1a0-8867-4cad-ba23-6fbc9b3a2923)
 
 ### **Day 1: Introduction to Vault**
 
